@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Watch movie push client</string>
+
+    <string name="movie_create_room">Create a movie room</string>
+    <string name="movie_room_id">Room ID：%s</string>
+
+    <string-array name="multi_movie_list">
+        <item>video</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+
+    <style name="BaeBottomSheetDialog" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/BottomSheetDialogAnim</item>
+    </style>
+
+    <style name="BottomSheetDialogAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/movie_bottom_sheet_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/movie_bottom_sheet_dialog_exit</item>
+    </style>
+
+    <style name="BaseDialogStyle" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <declare-styleable name="MoreSettingView">
+        <attr name="moreSetting_name" format="string" />
+        <attr name="moreSetting_src" format="reference" />
+    </declare-styleable>
+
+</resources>

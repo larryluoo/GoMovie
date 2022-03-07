@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Watch a movie together</string>
+
+    <string name="movie_input_room_id">Please enter a room ID</string>
+    <string name="movie_room_full">The room is full</string>
+    <string name="movie_join_fail">Failed to join, please try again</string>
+    <string name="movie_join_room">Join room</string>
+    <string name="movie_room_id">Room ID：%s</string>
+    <string name="movie_pause">pause</string>
+    <string name="movie_play">play</string>
+    <string name="movie_msg_send_fail">Failed to send, please try again</string>
+    <string name="movie_room_close">Room has been closed</string>
+    <string name="movie_room_no_exist">The movie room does not exist, please create the room first</string>
+
+</resources>

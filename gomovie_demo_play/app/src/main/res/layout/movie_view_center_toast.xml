@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fl_toast_message"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_toast_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/movie_shape_cc111014_8"
+        android:gravity="center"
+        android:paddingStart="24dp"
+        android:paddingTop="9dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="9dp"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="13dp">
+
+    </TextView>
+
+</FrameLayout>

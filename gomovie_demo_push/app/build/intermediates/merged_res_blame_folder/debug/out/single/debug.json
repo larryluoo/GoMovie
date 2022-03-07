@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_select_file.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxhdpi/icon_select_file.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/layout_movie_inquiry_dialog.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/layout/movie_inquiry_dialog.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable_aurora_edittext_cursor_bg.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/drawable/aurora_edittext_cursor_bg.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_arrow_aa.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxhdpi/icon_arrow_aa.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable_movie_shape_d6111014_16.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/drawable/movie_shape_d6111014_16.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/layout_movie_list_item.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/layout/movie_list_item.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_movie_list_create.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxhdpi/movie_list_create.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable_movie_shape_371963_12.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/drawable/movie_shape_371963_12.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable_movie_create_live_bg.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/drawable/movie_create_live_bg.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/layout_movie_room_activity.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/layout/movie_room_activity.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable_select_common_item_8_bg.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/drawable/select_common_item_8_bg.xml"
+    },
+    {
+        "merged": "/Users/zego/Downloads/demo/gomovie_demo_service/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/zego/Downloads/demo/gomovie_demo_service/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]
